@@ -1,6 +1,9 @@
 Cybersecurity Portfolio
 
-Name: Chinyere OkekeRole: Cybersecurity Beginner / StudentEmail: okekechinyere28@gmail.com
+Name: Chinyere Okeke
+Role: Cybersecurity Beginner/Student
+Email:
+okekechinyere28@gmail.com
 Phone: +2349158521512
 Location: Lagos, Nigeria
 
